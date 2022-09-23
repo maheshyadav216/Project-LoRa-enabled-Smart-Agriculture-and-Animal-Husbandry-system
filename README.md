@@ -9,7 +9,7 @@ Monitoring system for Farm/greenhouse & Cattle shed located at remote rural vill
 
 Hardware  
 - **SenseCAP K1100 - The Sensor Prototype Kit with LoRa® and AI**  
-- **Arduino MKR WiFi 1010**  
+- **NodeMCU ESP8266**  
 
 
 <img src="/Images/SenseCap.jpg" height="250" >
