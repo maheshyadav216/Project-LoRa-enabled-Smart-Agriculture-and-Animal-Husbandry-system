@@ -9,7 +9,7 @@ Monitoring system for Farm/greenhouse & Cattle shed located at remote rural vill
 
 Hardware  
 - **SenseCAP K1100 - The Sensor Prototype Kit with LoRa® and AI**  
-- **NodeMCU ESP8266**  
+- **NodeMCU ESP32S**  
 
 
 <img src="/Images/SenseCap.jpg" height="250" >
@@ -18,7 +18,7 @@ Hardware
 
 📕 **YouTube Video Link**  
 
-▶️ Project-LoRa-enabled-Smart-Agriculture-and-Animal-Husbandry-system - 🔗 https://youtu.be/  
+▶️ Project-LoRa-enabled-Smart-Agriculture-and-Animal-Husbandry-system - 🔗 https://youtu.be/X4uWDOTw-xw  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
