@@ -1,7 +1,7 @@
 # Project-LoRa-enabled-Smart-Agriculture-and-Animal-Husbandry-system
 Hackster-SEEED-Project-Contest - IoT in the wild 2022  
   
-<img src="/Images/IoT-in-the-wild.gif" height="250" >
+<img src="/Images/IoT-in-the-wild-2.gif" height="250" >
   
 
 Monitoring system for Farm/greenhouse & Cattle shed located at remote rural village with No Internet connectivity, with use of LoRa Gateway  
