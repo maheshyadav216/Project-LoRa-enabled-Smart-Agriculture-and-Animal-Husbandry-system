@@ -7,9 +7,9 @@ Hackster-SEEED-Project-Contest - IoT in the wild 2022
 Monitoring system for Farm/greenhouse & Cattle shed located at remote rural village with No Internet connectivity, with use of LoRa Gateway  
 
 
-Hardware  
-- **SenseCAP K1100 - The Sensor Prototype Kit with LoRa® and AI**  
-- **NodeMCU ESP32S**  
+🛠 **Hardware**  
+- SenseCAP K1100 - The Sensor Prototype Kit with LoRa® and AI  
+- NodeMCU ESP32S  
 
 
 <img src="/Images/SenseCap.jpg" height="250" >
