@@ -20,6 +20,11 @@ Hardware
 
 ▶️ Project-LoRa-enabled-Smart-Agriculture-and-Animal-Husbandry-system - 🔗 https://youtu.be/X4uWDOTw-xw  
 
+</br>
+
+#### 📜 Hackster Project  
+🔗 https://www.hackster.io/maheshyadav2162/lora-enabled-smart-agriculture-and-animal-husbandry-system-332ff8  
+
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
